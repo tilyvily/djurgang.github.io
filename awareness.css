@@ -86,6 +86,10 @@ a {
         margin-top: -2vh;
     }
 
+    a {
+        position: relative;
+    }
+
     .hem-text {
         margin-left: 30%;
         color: #fff5cb;

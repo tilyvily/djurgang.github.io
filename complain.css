@@ -79,6 +79,10 @@ a {
         letter-spacing: 1px;
     }
 
+    a {
+        position: relative;
+    }
+
     .hem-text {
         margin-left: 30%;
         color: #fff5cb;
