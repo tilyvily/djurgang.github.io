@@ -93,6 +93,7 @@ a {
     .hem-text {
         margin-left: 30%;
         color: #fff5cb;
+        position: absolute;
         margin-top: 50%;
     }
 }
