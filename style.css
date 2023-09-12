@@ -205,32 +205,3 @@ a {
     }
 }
 
-@media only screen and (max-height: 800px)  {
-    body {
-        background-color: #c49d6c;
-        margin: 0;
-        padding: 0;
-    }
-
-    .ears-bild {
-        visibility: hidden;
-        position: absolute;
-    }
-
-    .main-box {
-        flex-direction: row;
-        gap: 30px;
-        align-items: center;
-        align-content: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
-
-    }
-
-    .djurgang-text {
-        position: absolute;
-        margin-top: 2%;
-    }
-
-}
